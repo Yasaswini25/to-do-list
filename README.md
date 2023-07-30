@@ -1,4 +1,4 @@
-# to-do-list
+# To-Do-list
 Deployment-link:-https://yasaswini25.github.io/to-do-list/
 ### Project:-
 In this project I have create a responsive to do list which include saving task details  without using backend technologies.
