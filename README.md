@@ -9,3 +9,4 @@ The special features includes the status of the task whether it is already done.
 In this project we have used the following technologies:
 - HTML
 - CSS
+- Java Script
