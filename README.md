@@ -10,3 +10,5 @@ In this project we have used the following technologies:
 - HTML
 - CSS
 - Java Script
+### Skills
+[![skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
